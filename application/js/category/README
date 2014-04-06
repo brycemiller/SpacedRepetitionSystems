@@ -1,0 +1,8 @@
+When compiling category-all.js, the correct order is as follows:
+bulkUpload.js
+refreshCategories.js
+newCategory.js
+editCategory.js
+deleteCategory.js
+categoryMenu.js
+categoryPane.js

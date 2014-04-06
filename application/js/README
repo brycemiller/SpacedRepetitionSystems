@@ -1,0 +1,9 @@
+When compiling all.js, the correct order is as follows:
+components/maskTop.js
+components/components-all.js
+category/category-all.js
+card/card-all.js
+review/review.js
+appMenu/appMenu.js
+suggest/inlineSuggest.js
+components/maskBottom.js

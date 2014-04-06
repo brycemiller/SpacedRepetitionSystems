@@ -1,0 +1,12 @@
+When compiling components-all.js, the correct order is as follows:
+button.js
+comboBox.js
+fileUpload.js
+formHandler.js
+menuItem.js
+reportError.js
+textField.js
+textArea.js
+toolbarButton.js
+
+Note that maskBottom.js and maskTop.js are NOT part of components-all.js

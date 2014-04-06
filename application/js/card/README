@@ -1,0 +1,7 @@
+When compiling card-all.js, the correct order is as follows:
+refreshCards.js
+newCard.js
+editCard.js
+deleteCard.js
+cardMenu.js
+cardGrid.js

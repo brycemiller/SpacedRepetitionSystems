@@ -1,0 +1,79 @@
+#main {
+	display: block;
+	width: 700px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+#browserSupportBar {
+	display: block;
+	width: 420px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+#lf {
+	display: block;
+	width: 400px;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+
+#topRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 700px;
+	height: 60px;
+}
+
+#leftColumn {
+	display:inline;
+	width: 200px;
+	height: 450px;
+	float: left;
+}
+
+#rightColumn {
+	margin-left: 205px;
+	width: 495px;
+	height: 450px;
+}
+
+#form {
+	left: 30%;
+	top: 10%;
+	position: absolute;
+	z-index: 1;
+}
+
+#inlineSuggestForm {
+	width: 700px;
+	height: 65px;
+	float: right;
+}
+
+#ext-gen38 {
+	margin-left: 150px;
+	width: 455px;
+	float: left;
+}
+
+#ext-gen40 {
+	display: inline;
+}
+
+#ext-gen41 {
+	padding: 2px;
+}
+
+.silk-application-32 { background-image: url(../../resources/icons/fam/application-32.png) !important; background-repeat: no-repeat; }
+.silk-application-add-32 { background-image: url(../../resources/icons/fam/application_add-32.png) !important; background-repeat: no-repeat; }
+.silk-folder-32 { background-image: url(../../resources/icons/fam/folder-32.png) !important; background-repeat: no-repeat; }
+.silk-folder-add-32 { background-image: url(../../resources/icons/fam/folder_add-32.png) !important; background-repeat: no-repeat; }
+.silk-chart-bar-32 { background-image: url(../../resources/icons/fam/chart_bar-32.png) !important; background-repeat: no-repeat; }
+.silk-find-32 { background-image: url(../../resources/icons/fam/find-32.png) !important; background-repeat: no-repeat; }
+.silk-page-go-32 { background-image: url(../../resources/icons/fam/page_go-32.png) !important; background-repeat: no-repeat; }
+.silk-user-32 { background-image: url(../../resources/icons/fam/user-32.png) !important; background-repeat: no-repeat; }
+.silk-user-female-32 { background-image: url(../../resources/icons/fam/user_female-32.png) !important; background-repeat: no-repeat; }
+

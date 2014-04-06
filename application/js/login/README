@@ -1,0 +1,7 @@
+When compiling login-all.js, the correct order is as follows:
+loginTextField.js
+loginForm.js
+RPC.js
+ajaxObj.js
+loginObj.js
+setup.js
