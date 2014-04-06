@@ -1,3 +1,4 @@
+Add salt to password
 Write selenium tests
 Refactor index.php and srs.php into more modular views
 Factor out CH into settings file
