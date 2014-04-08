@@ -1,5 +1,5 @@
 Add salt to password
 Write selenium tests
 Refactor index.php and srs.php into more modular views
-Factor out CH into settings file
+Factor out CH and suggest-email address into settings file
 Better error-handling
